@@ -139,7 +139,7 @@ def test_delete_empty_token():
     response = requests.delete(url,header)
     assert response.status_code == 401
 
-def test_delete_invalid_token2():
+def test_delete_invalid_token1():
     url = "https://gorest.co.in/public/v2/users/3667"
     header = {
         'Authorization': "123",
