@@ -1,0 +1,9 @@
+{
+	"name": "smtarquiepractice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9a64e80-14ac-476f-b966-3a454db41c16",
+		"tenantId": "e47f4db6-3bdb-412f-a7b8-6984b4dbff97"
+	}
+}
